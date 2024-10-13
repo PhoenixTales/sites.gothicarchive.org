@@ -1,2 +1,4 @@
 # sites.gothicarchive.org
-website mirrored inside gothicarchive.org
+websites mirrored inside gothicarchive.org
+
+Main repository: https://github.com/PhoenixTales/www.gothicarchive.org
