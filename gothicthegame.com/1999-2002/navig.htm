@@ -1,0 +1,119 @@
+<html>
+
+<head>
+  <title>Navig</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+  <meta name="Author" content="Design + HTML by seitenblick.de (+49 711 5380858)">
+  <meta name="Date" content="30.04.99">
+  <script language="JavaScript">
+    const MM_sr = [];
+    const MM_p = [];
+
+    // Comment the functions due to the swap images are not present, to avoid errors. 
+
+    function MM_swapImgRestore() {
+      // MM_sr.forEach((element) => {
+      //   const originalSrc = element.dataset.originalSrc;
+
+      //   if (originalSrc) {
+      //     element.src = originalSrc;
+      //   }
+      // });
+    }
+
+    function MM_preloadImages(...images) {
+      // images.forEach((src) => {
+      //   if (!src.startsWith("#")) {
+      //     const img = new Image();
+      //     img.src = src;
+      //     MM_p.push(img); // save images to make the garbage collector skip purging them (in theory)
+      //   }
+      // });
+    }
+
+    function MM_findObj(name, doc = document) {
+      // return document[name] || document.getElementById(name) || null;
+    }
+
+    function MM_swapImage(...args) {
+      // for (let i = 0; i < args.length - 2; i += 3) {
+      //   const element = MM_findObj(args[i]);
+
+      //   if (element) {
+      //     if (!element.dataset.originalSrc) {
+      //       element.dataset.originalSrc = element.src;
+      //     }
+
+      //     element.src = args[i + 2];
+      //     MM_sr.push(element);
+      //   }
+      // }
+    }
+  </script>
+</head>
+
+<body bgcolor="#000000"
+  onload="MM_preloadImages('images/o_downloads.jpg','images/o_story.jpg','images/o_screen.jpg','images/o_featur.jpg','images/o_specia.jpg','images/o_presse.jpg','images/o_news.jpg','images/o_music.jpg')">
+  <table width="200" cellspacing="0" cellpadding="0" border="0">
+    <tbody>
+      <tr valign="top" align="left">
+        <td colspan="2" width="400"><a href="main.htm" target="main"><img src="images/s_logo.jpg" width="200" height="60"
+              border="0"></a></td>
+      </tr>
+      <tr valign="top" align="left">
+        <td colspan="2" width="400"><a href="story.htm" target="main" onmouseout="MM_swapImgRestore()"
+            onmouseover="MM_swapImage('story','','images/o_story.jpg',1)"><img src="images/s_story.jpg" name="story"
+              width="200" height="32" border="0"></a></td>
+      </tr>
+      <tr valign="top" align="left">
+        <td colspan="2" width="400"><a href="screens.htm" target="main" onmouseout="MM_swapImgRestore()"
+            onmouseover="MM_swapImage('screens','','images/o_screen.jpg',1)"><img src="images/s_screen.jpg"
+              name="screens" width="200" height="32" border="0"></a></td>
+      </tr>
+      <tr valign="top" align="left">
+        <td colspan="2" width="400"><a href="features.htm" target="main" onmouseout="MM_swapImgRestore()"
+            onmouseover="MM_swapImage('features','','images/o_featur.jpg',1)"><img src="images/s_featur.jpg"
+              name="features" width="200" height="30" border="0"></a></td>
+      </tr>
+      <tr valign="top" align="left">
+        <td colspan="2" width="400"><a href="special.htm" target="main" onmouseout="MM_swapImgRestore()"
+            onmouseover="MM_swapImage('Specials','','images/o_specia.jpg',1)"><img src="images/s_specia.jpg"
+              name="Specials" width="200" height="32" border="0"></a></td>
+      </tr>
+      <tr valign="top" align="left">
+        <td colspan="2" width="400"><a href="presse.htm" target="main" onmouseout="MM_swapImgRestore()"
+            onmouseover="MM_swapImage('Presse','','images/o_presse.jpg',1)"><img src="images/s_press.jpg" name="Presse"
+              width="200" height="30" border="0"></a></td>
+      </tr>
+      <tr valign="top" align="left">
+        <td colspan="2" width="400">
+          <p><a href="news.htm" target="main" onmouseout="MM_swapImgRestore()"
+              onmouseover="MM_swapImage('news','','images/o_news.jpg',1)"><img src="images/s_news.jpg" name="news"
+                width="200" height="30" border="0"><br>
+            </a><a href="music.htm" target="main" onmouseout="MM_swapImgRestore()"
+              onmouseover="MM_swapImage('music','','images/o_music.jpg',1)"><img src="images/s_music.jpg" name="music"
+                width="200" height="32" border="0"></a><br>
+            <a href="downloads.htm" target="main" onmouseout="MM_swapImgRestore()"
+              onmouseover="MM_swapImage('downloads','','images/o_downloads.jpg',1)"><img src="images/s_downloads.jpg"
+                name="downloads" width="200" height="32" border="0"></a>
+          </p>
+        </td>
+      </tr>
+      <tr valign="top" align="left">
+
+        <td width="90"><a href="http://www.piranha-bytes.com/" target="_blank"><img src="images/s_piranh.jpg" width="90"
+              height="75" border="0"></a></td>
+
+        <td width="110"><a href="http://www.egmont-interactive.de/" target="_blank"><img src="images/s_egmont.jpg"
+              width="110" height="75" border="0"></a></td>
+      </tr>
+
+      <tr valign="top" align="left">
+
+        <td colspan="2" width="400"><img src="images/s_unten.jpg" width="200" height="185"></td>
+      </tr>
+    </tbody>
+  </table>
+</body>
+
+</html>
