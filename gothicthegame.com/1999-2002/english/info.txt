@@ -1,0 +1,3 @@
+The English "special" pages are taken from the German version, due to inability to find them on the archive.org.
+
+The images for all the "special" pages are referenced from the root images folder, because it is unknown that those were supposed to be duplicated in the English images folder.
