@@ -1,0 +1,9 @@
+- Missing pages (not a full list):
+
+    English: jobs_e.htm, team_e.thm, diary_e.thm, features_e.htm, press_e.htm, links_e.htm, story_e.htm
+
+    German: contact_d.htm, shots_d.htm, features_d.htm, press_d.htm, links_edhtm, story_d.htm
+
+- Reconstructed pages from the GothicWebsite20000.JPG image: mainmenu_e.htm, mainmenu_d.htm
+
+- home_e--version-1.htm and home_e--version-2.htm are just different versions of the home_e.htm
