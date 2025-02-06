@@ -1,0 +1,7 @@
+- Primary source of reconstruction - http://web.archive.org/web/20000520024829/http://www.piranha-bytes.com/
+
+- Missing pages for English version: story.htm, features_panel.htm, team_panel,htm, download.htm, download_panel.htm, screenshots_panel.htm, a6.htm, a2.htm, c5.htm, d1.htm, e4.htm, f1.htm, g1.htm, h1.htm, links_panel.htm, jobs_panel.htm, contact_panel.htm
+
+- Missing pages for German version: Most of them are missing
+
+- There are several versions of news.htm pages for English and German versions, but the most informative and the most new one is used. And there are also two versions for the main.htm for English version, but the latest is used. The other non used pages are saved in the repository and have suffixes which differentiate them from the used versions.
