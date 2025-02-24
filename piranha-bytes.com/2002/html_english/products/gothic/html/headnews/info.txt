@@ -1,0 +1,1 @@
+The headnews is reconstructed and combined from the two versions found on the archive.org, those two versions are put in the corresponding folders for preservation purposes: "original_newsarchive_pages" and "original_newsarchive_pages_version_2".
